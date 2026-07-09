@@ -4,11 +4,7 @@ class Solution:
         n = len(chars)
         
         for start in range(0, n, 2 * k):
-            left = start
-            right = min(start + k, n) - 1
-            while left < right:
-                chars[left], chars[right] = chars[right], chars[left]
-                left += 1
-                right -= 1
+            end = min(start + k, n)
+            chars[start:end] = chars[start:end][::-1]
         
         return ''.join(chars)
