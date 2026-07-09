@@ -1,10 +1,10 @@
 class Solution:
     def reverseStr(self, s: str, k: int) -> str:
-        chars = list(s)
-        n = len(chars)
+        b = bytearray(s, 'ascii')
+        n = len(b)
         
         for start in range(0, n, 2 * k):
             end = min(start + k, n)
-            chars[start:end] = chars[start:end][::-1]
+            b[start:end] = b[start:end][::-1]
         
-        return ''.join(chars)
+        return b.decode('ascii')
