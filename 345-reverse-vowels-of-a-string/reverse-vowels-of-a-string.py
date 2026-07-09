@@ -1,9 +1,9 @@
-import re
-
 class Solution:
     def reverseVowels(self, s: str) -> str:
+        vowels = set('aeiouAEIOU')
         chars = list(s)
-        idx = [m.start() for m in re.finditer(r'[aeiouAEIOU]', s)]
+        # Collect indices of vowels only once
+        idx = [i for i, c in enumerate(chars) if c in vowels]
         
         left, right = 0, len(idx) - 1
         while left < right:
