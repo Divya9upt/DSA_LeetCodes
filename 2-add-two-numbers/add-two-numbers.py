@@ -6,20 +6,28 @@
 
 class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        dummy = ListNode()
-        curr = dummy
+        head = tail = None
         carry = 0
 
-        while l1 or l2 or carry:
-            v1 = l1.val if l1 else 0
-            v2 = l2.val if l2 else 0
+        while l1 or l2:
+            total = carry
+            if l1:
+                total += l1.val
+                l1 = l1.next
+            if l2:
+                total += l2.val
+                l2 = l2.next
 
-            total = v1 + v2 + carry
-            carry = total // 10
-            curr.next = ListNode(total % 10)
-            curr = curr.next
+            carry, digit = divmod(total, 10)
+            node = ListNode(digit)
 
-            l1 = l1.next if l1 else None
-            l2 = l2.next if l2 else None
+            if head is None:
+                head = tail = node
+            else:
+                tail.next = node
+                tail = node
 
-        return dummy.next
+        if carry:
+            tail.next = ListNode(1)
+
+        return head
