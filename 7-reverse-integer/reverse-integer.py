@@ -8,8 +8,6 @@ class Solution:
         while x != 0:
             digit = x % 10
             x //= 10
-            
-            # Check overflow before actually updating result
             if result > (INT_MAX - digit) // 10:
                 return 0
             
