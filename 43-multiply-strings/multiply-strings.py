@@ -6,7 +6,6 @@ class Solution:
         m, n = len(num1), len(num2)
         result = [0] * (m + n)
         
-        # Multiply each digit pair, accumulate into result array
         for i in range(m - 1, -1, -1):
             digit1 = int(num1[i])
             for j in range(n - 1, -1, -1):
@@ -19,7 +18,6 @@ class Solution:
                 result[p2] = total % 10
                 result[p1] += total // 10
         
-        # Skip leading zeros
         idx = 0
         while idx < len(result) - 1 and result[idx] == 0:
             idx += 1
