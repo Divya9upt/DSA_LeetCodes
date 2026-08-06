@@ -5,3 +5,5 @@ class Solution:
             nums[i] += nums[i - 1];
         
         return nums;
+
+        #prg
