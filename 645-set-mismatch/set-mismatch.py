@@ -17,3 +17,5 @@ class Solution:
         missing = total - duplicate
         
         return [duplicate, missing]
+
+        #solved
