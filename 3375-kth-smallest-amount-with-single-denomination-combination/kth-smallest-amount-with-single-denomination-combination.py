@@ -6,7 +6,6 @@ class Solution:
         n = len(coins)
         
         def count_le(x: int) -> int:
-            """Count how many amounts <= x are achievable (union of multiples)."""
             total = 0
             # iterate over all non-empty subsets of coins
             for mask in range(1, 1 << n):
