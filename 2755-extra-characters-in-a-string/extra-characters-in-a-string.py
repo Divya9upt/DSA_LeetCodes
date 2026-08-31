@@ -1,12 +1,32 @@
 class Solution:
-    def minExtraChar(self, s: str, dictionary: list[str]) -> int:
-        word_set = set(dictionary)
-        n = len(s)
-        dp = [0] * (n + 1)
+    def minExtraChar(self, s: str, dictionary: List[str]) -> int:
+        di = {}
+        end = "#"
 
-        for i in range(1, n + 1):
-            dp[i] = dp[i - 1] + 1
-            for j in range(i):
-                if s[j:i] in word_set and dp[j] < dp[i]:
-                    dp[i] = dp[j]
-        return dp[n]
+        # Build trie
+        for word in dictionary:
+            t = di
+            for ch in word:
+                if ch not in t:
+                    t[ch] = {}
+                t = t[ch]
+            t[end] = True
+
+        n = len(s)
+        dpt = [float("inf")] * (n + 1)
+        dpt[0] = 0
+
+        for i in range(n):
+            dpt[i + 1] = min(dpt[i + 1], dpt[i] + 1)
+
+            t = di
+            for j in range(i, n):
+                if s[j] not in t:
+                    break
+
+                t = t[s[j]]
+
+                if end in t:
+                    dpt[j + 1] = min(dpt[j + 1], dpt[i])
+
+        return dpt[n]
