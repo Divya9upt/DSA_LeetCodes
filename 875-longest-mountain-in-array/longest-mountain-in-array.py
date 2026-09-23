@@ -9,7 +9,7 @@ class Solution:
                 while l > 0 and arr[l - 1] < arr[l]:
                     l -= 1
                 r = i + 1
-                while r < n - 1 and arr[r] > arr[r + 1]:
+                while r<n-1 and arr[r]>arr[r+1]:
                     r += 1
                 ans = max(ans, r - l + 1)
                 i = r  
