@@ -1,8 +1,8 @@
 class Solution:
     def maxProfit(self, prices):
-        buy1 = float('-inf')
-        sell1 = 0
-        buy2 = float('-inf')
+        buy1= float('-inf')
+        sell1=0
+        buy2 =float('-inf')
         sell2 =0
         for price in prices:
             buy1 = max(buy1, -price)
