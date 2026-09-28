@@ -3,7 +3,7 @@ class Solution:
         depth=0
         max_depth=0
         for ch in s:
-            if ch == '(':
+            if ch== '(':
                 depth += 1
                 max_depth = max(max_depth, depth)
             elif ch == ')':
