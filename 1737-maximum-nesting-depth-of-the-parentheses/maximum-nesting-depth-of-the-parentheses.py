@@ -6,6 +6,6 @@ class Solution:
             if ch=='(':
                 depth += 1
                 max_depth = max(max_depth, depth)
-            elif ch == ')':
-                depth -= 1
+            elif ch==')':
+                depth-=1
         return max_depth
