@@ -15,11 +15,9 @@ class Solution:
                         new_balance = balance + change
                         if new_balance >= 0:
                             dp[i][j].add(new_balance)
-
                 if j > 0:
                     for balance in dp[i][j - 1]:
                         new_balance = balance + change
                         if new_balance >= 0:
                             dp[i][j].add(new_balance)
-
         return 0 in dp[m - 1][n - 1]
