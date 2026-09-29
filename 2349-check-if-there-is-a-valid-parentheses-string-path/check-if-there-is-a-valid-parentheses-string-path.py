@@ -1,23 +1,21 @@
+from functools import cache
+from typing import List
+
 class Solution:
-    def hasValidPath(self, grid):
+    def hasValidPath(self, grid: List[List[str]]) -> bool:
         m, n = len(grid), len(grid[0])
-        if (m + n - 1) % 2 or grid[0][0] == ')':
+        if (m + n - 1) % 2 or grid[0][0] == ')' or grid[m - 1][n - 1] == '(':
             return False
-        dp = [[set() for _ in range(n)] for _ in range(m)]
-        dp[0][0].add(1)
-        for i in range(m):
-            for j in range(n):
-                if i == 0 and j == 0:
-                    continue
-                change = 1 if grid[i][j] == '(' else -1
-                if i > 0:
-                    for balance in dp[i - 1][j]:
-                        new_balance = balance + change
-                        if new_balance >= 0:
-                            dp[i][j].add(new_balance)
-                if j > 0:
-                    for balance in dp[i][j - 1]:
-                        new_balance = balance + change
-                        if new_balance >= 0:
-                            dp[i][j].add(new_balance)
-        return 0 in dp[m - 1][n - 1]
+        @cache
+        def dfs(i, j, k):
+            k += 1 if grid[i][j] == '(' else -1
+            if k < 0 or k > m - i + n - j - 1:
+                return False
+            if i == m - 1 and j == n - 1:
+                return k == 0
+            if i + 1 < m and dfs(i + 1, j, k):
+                return True
+            if j + 1 < n and dfs(i, j + 1, k):
+                return True
+            return False
+        return dfs(0, 0, 0)
