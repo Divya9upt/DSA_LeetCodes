@@ -11,7 +11,7 @@ class Solution:
                 right += 1
 
         for i in range(len(s)):
-            expand(i, i)       # odd length
-            expand(i, i + 1)   # even length
+            expand(i, i)      
+            expand(i, i + 1)  
 
         return count
