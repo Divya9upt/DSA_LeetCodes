@@ -1,4 +1,3 @@
-
 class Solution:
     def minSteps(self, n):
         ans = 0
