@@ -4,5 +4,4 @@ class Solution:
 
         for ch in s + t:
             ans ^= ord(ch)
-
         return chr(ans)
