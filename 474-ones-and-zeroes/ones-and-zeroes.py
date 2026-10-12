@@ -9,5 +9,4 @@ class Solution:
             for i in range(m, z - 1, -1):
                 for j in range(n, o - 1, -1):
                     dp[i][j] = max(dp[i][j], dp[i-z][j-o] + 1)
-
         return dp[m][n]
