@@ -10,6 +10,5 @@ class Solution:
 
         if sum > 0:
             ans += str(sum)
-
         ans += "0" * (num - len(ans))
         return ans
