@@ -4,7 +4,6 @@ class Solution:
         if sum > num * 9:
             return ""
         ans = ""
-
         while sum >= 9:
             ans += "9"
             sum -= 9
