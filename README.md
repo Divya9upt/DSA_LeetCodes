@@ -12,4 +12,12 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
