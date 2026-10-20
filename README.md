@@ -42,6 +42,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0496-next-greater-element-i) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Stack
 |  |
 | ------- |
@@ -50,4 +51,12 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0496-next-greater-element-i) |
+## String
+|  |
+| ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0884-uncommon-words-from-two-sentences) |
+## Counting
+|  |
+| ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0884-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
