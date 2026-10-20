@@ -6,4 +6,5 @@ class Solution:
         words = s1.split() + s2.split()
         freq = Counter(words)
 
+
         return [word for word in freq if freq[word] == 1]
