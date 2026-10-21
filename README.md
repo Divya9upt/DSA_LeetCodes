@@ -25,6 +25,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -54,9 +55,26 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Counting
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0884-uncommon-words-from-two-sentences) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
