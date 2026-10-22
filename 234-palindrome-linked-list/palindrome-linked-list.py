@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def isPalindrome(self, head):
-        values = []
+        values= []
 
         while head:
             values.append(head.val)
