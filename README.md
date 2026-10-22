@@ -27,6 +27,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -77,4 +79,12 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
