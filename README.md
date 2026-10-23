@@ -27,11 +27,13 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0148-sort-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -82,9 +84,18 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
