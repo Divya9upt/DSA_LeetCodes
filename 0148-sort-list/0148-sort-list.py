@@ -18,14 +18,11 @@ class Solution:
             slow = slow.next
             fast = fast.next.next
 
-        # Split the list into two halves
         prev.next = None
 
-        # Sort both halves
         left = self.sortList(head)
         right = self.sortList(slow)
 
-        # Merge the sorted halves
         return self.merge(left, right)
 
     def merge(self, left, right):
