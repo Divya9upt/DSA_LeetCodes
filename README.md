@@ -7,6 +7,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 ## Math
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
@@ -18,6 +19,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 | [0039-combination-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0075-sort-colors) |
 | [0496-next-greater-element-i](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0496-next-greater-element-i) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -98,4 +100,12 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
