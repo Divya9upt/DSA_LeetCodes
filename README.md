@@ -88,6 +88,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0234-palindrome-linked-list) |
 ## Recursion
