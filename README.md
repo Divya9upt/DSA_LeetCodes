@@ -12,12 +12,14 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0135-candy) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Array
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0135-candy) |
 | [0496-next-greater-element-i](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0704-binary-search) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
