@@ -20,6 +20,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 | [0039-combination-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0135-candy) |
+| [0327-count-of-range-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0327-count-of-range-sum) |
 | [0496-next-greater-element-i](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0704-binary-search) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -101,10 +102,12 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0148-sort-list) |
+| [0327-count-of-range-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0327-count-of-range-sum) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0148-sort-list) |
+| [0327-count-of-range-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0327-count-of-range-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 ## Binary Search
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0327-count-of-range-sum) |
 | [0704-binary-search](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0704-binary-search) |
 ## Design
 |  |
@@ -125,4 +129,20 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0232-implement-queue-using-stacks) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
