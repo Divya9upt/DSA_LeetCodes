@@ -1,12 +1,10 @@
 
 class Solution:
     def dayOfYear(self, date: str) -> int:
-        year, month, day = map(int, date.split('-'))
+        year, month, day = map(int, date.split("-"))
+        days_in_months = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
-        days = [31, 28, 31, 30, 31, 30,
-                31, 31, 30, 31, 30, 31]
-
-        if year % 400 == 0 or (year % 4 == 0 and year % 100 != 0):
-            days[1] = 29
-
-        return sum(days[:month-1]) + day
+        is_leap = (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0)
+        if is_leap:
+            days_in_months[1] = 29
+        return sum(days_in_months[: month - 1]) + day
