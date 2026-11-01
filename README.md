@@ -7,6 +7,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 ## Math
 |  |
 | ------- |
+| [1154-day-of-the-year](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1154-day-of-the-year) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
@@ -68,6 +69,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1154-day-of-the-year](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1154-day-of-the-year) |
 ## Counting
 |  |
 | ------- |
