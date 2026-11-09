@@ -147,4 +147,16 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0327-count-of-range-sum) |
+## Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0129-sum-root-to-leaf-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0129-sum-root-to-leaf-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
