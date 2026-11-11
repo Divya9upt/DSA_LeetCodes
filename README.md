@@ -7,6 +7,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 ## Math
 |  |
 | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1154-day-of-the-year) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -113,6 +114,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 ## Dynamic Programming
 |  |
 | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1137-n-th-tribonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
 |  |
@@ -159,4 +161,8 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0129-sum-root-to-leaf-numbers) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
