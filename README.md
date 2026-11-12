@@ -25,6 +25,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 | [0327-count-of-range-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0327-count-of-range-sum) |
 | [0496-next-greater-element-i](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
 |  |
@@ -37,11 +38,13 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 | [0075-sort-colors](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0234-palindrome-linked-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0148-sort-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Quicksort
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
 | ------- |
@@ -125,6 +129,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0327-count-of-range-sum) |
 | [0704-binary-search](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Design
 |  |
 | ------- |
