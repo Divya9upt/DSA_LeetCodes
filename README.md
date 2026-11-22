@@ -18,6 +18,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 | [0135-candy](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0680-valid-palindrome-ii) |
+| [1029-two-city-scheduling](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1029-two-city-scheduling) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Array
 |  |
@@ -30,6 +31,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 | [0496-next-greater-element-i](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0704-binary-search) |
+| [1029-two-city-scheduling](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1029-two-city-scheduling) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
@@ -51,6 +53,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 | [0075-sort-colors](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0148-sort-list) |
 | [0561-array-partition](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0561-array-partition) |
+| [1029-two-city-scheduling](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1029-two-city-scheduling) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Quicksort
 |  |
@@ -183,4 +186,12 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0561-array-partition) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
