@@ -10,6 +10,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 | [1137-n-th-tribonacci-number](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1154-day-of-the-year) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
@@ -34,6 +35,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 | [1029-two-city-scheduling](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1029-two-city-scheduling) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Backtracking
 |  |
 | ------- |
@@ -194,4 +196,16 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1029-two-city-scheduling) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
