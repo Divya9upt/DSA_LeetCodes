@@ -7,6 +7,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0441-arranging-coins) |
 | [1137-n-th-tribonacci-number](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1154-day-of-the-year) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -142,6 +143,7 @@ A collection of my leetcode solutions and dsa practice. i'm documenting my learn
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0327-count-of-range-sum) |
+| [0441-arranging-coins](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya9upt/DSA_LeetCodes/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Design
